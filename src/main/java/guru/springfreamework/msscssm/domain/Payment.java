@@ -21,6 +21,4 @@ public class Payment {
     private PaymentState state;
 
     private BigDecimal amount;
-    
-
 }
